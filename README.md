@@ -1,6 +1,6 @@
 # virtexV3
 
-<h1>Virtex, Vircon Creator </h1>
+<h3>Virtex, Vircon Creator </h3>
 
 Auto Install: <br>
 $ ./config.sh
