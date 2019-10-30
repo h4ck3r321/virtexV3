@@ -2,7 +2,12 @@
 
 <h3>Virtex, Vircon Creator </h3>
 
-Auto Install: <br>
+Install: <br>
+$ pkg update <br>
+$ apt install git <br>
+$ git clone https://github.com/h4ck3r321/virtexV3.git <br>
+$ cd virtexV3 <br>
+$ chmod +x * <br>
 $ ./config.sh
 
 <br><br>
