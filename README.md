@@ -8,7 +8,7 @@ $ apt install git <br>
 $ git clone https://github.com/h4ck3r321/virtexV3.git <br>
 $ cd virtexV3 <br>
 $ chmod +x * <br>
-$ ./config.sh
+$ ./setup.sh
 
 <br><br>
 Source code ini di encrypt untuk menjaga Recode Tools dan semacam nya, Thank's
